@@ -1,5 +1,9 @@
 {
-  "presets": ["env", "vue"],
+  "presets": [
+    "env",
+    "vue",
+    "stage-0"
+  ],
   "plugins": [
     "transform-runtime"
   ],
